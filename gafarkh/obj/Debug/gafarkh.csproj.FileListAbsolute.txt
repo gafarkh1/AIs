@@ -1,0 +1,15 @@
+C:\Users\gafar\source\repos\gafarkh\gafarkh\bin\Debug\xmpir32.dll
+C:\Users\gafar\source\repos\gafarkh\gafarkh\bin\Debug\xmpir64.dll
+C:\Users\gafar\source\repos\gafarkh\gafarkh\bin\Debug\gafarkh.exe.config
+C:\Users\gafar\source\repos\gafarkh\gafarkh\bin\Debug\gafarkh.exe
+C:\Users\gafar\source\repos\gafarkh\gafarkh\bin\Debug\gafarkh.pdb
+C:\Users\gafar\source\repos\gafarkh\gafarkh\bin\Debug\FsMpir.NET.dll
+C:\Users\gafar\source\repos\gafarkh\gafarkh\bin\Debug\MPI.dll
+C:\Users\gafar\source\repos\gafarkh\gafarkh\bin\Debug\Mpir.NET.dll
+C:\Users\gafar\source\repos\gafarkh\gafarkh\bin\Debug\FSharp.Core.dll
+C:\Users\gafar\source\repos\gafarkh\gafarkh\bin\Debug\FsMpir.NET.pdb
+C:\Users\gafar\source\repos\gafarkh\gafarkh\bin\Debug\Mpir.NET.pdb
+C:\Users\gafar\source\repos\gafarkh\gafarkh\obj\Debug\gafarkh.csproj.CoreCompileInputs.cache
+C:\Users\gafar\source\repos\gafarkh\gafarkh\obj\Debug\gafarkh.csproj.CopyComplete
+C:\Users\gafar\source\repos\gafarkh\gafarkh\obj\Debug\gafarkh.exe
+C:\Users\gafar\source\repos\gafarkh\gafarkh\obj\Debug\gafarkh.pdb
